@@ -36,12 +36,6 @@ Sou um estudante apaixonado por tecnologia e estou atualmente aprendendo **Pytho
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
 ---
-
-## ✉️ Contato
-
-- 📧 Email: seuemail@example.com
-- 💼 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seuusuario)
-
 ---
 
 > *"A melhor maneira de prever o futuro é criá-lo." – Abraham Lincoln*
