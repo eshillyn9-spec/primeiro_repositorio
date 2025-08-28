@@ -31,9 +31,10 @@ Sou um estudante apaixonado por tecnologia e estou atualmente aprendendo **Pytho
 
 ---
 
-## 📈 Estatísticas GitHub
+##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+(![55fc4bee7c31f0850262da53fa1e3180](https://github.com/user-attachments/assets/61d12fe3-3438-415c-9eb0-514fd5ddca17)
+
 
 ---
 ---
