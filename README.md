@@ -56,3 +56,5 @@ Sou um estudante apaixonado por tecnologia e estou atualmente aprendendo **Pytho
 
 > *"A melhor maneira de prever o futuro é criá-lo." – Abraham Lincoln*
 
+
+
