@@ -45,7 +45,6 @@ Sou um estudante apaixonado por tecnologia e estou atualmente aprendendo **Pytho
 ## 📌 Repositórios em destaque
 
 - [**Meu primeiro projeto em Python**](https://github.com/seuusuario/nome-do-repositorio) – Um pequeno projeto que automatiza tarefas simples no terminal.
-- [**Estudos com Pandas**](https://github.com/seuusuario/outro-repositorio) – Códigos de estudo sobre análise de dados com Python.
 
 ##
 
